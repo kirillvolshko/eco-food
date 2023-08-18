@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/eco-food/static/css/main.cedf899a.css",
+    "main.js": "/eco-food/static/js/main.903c71a8.js",
+    "static/media/background.svg": "/eco-food/static/media/background.05a986efcd00e7b71502.svg",
+    "index.html": "/eco-food/index.html",
+    "main.cedf899a.css.map": "/eco-food/static/css/main.cedf899a.css.map",
+    "main.903c71a8.js.map": "/eco-food/static/js/main.903c71a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cedf899a.css",
+    "static/js/main.903c71a8.js"
+  ]
+}
