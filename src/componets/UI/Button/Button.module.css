@@ -1,0 +1,23 @@
+.MyButton{
+    width: 275.09px;
+    height: 68px;
+    border: none;
+    border-radius: 32px;
+    background-color: #FEDE42;
+    font-size: 24.73px;
+    font-weight: 400;
+    font-family: 'Open Sans';
+}
+.LargeButton{
+    width: 275.09px;
+    height: 68px;
+    font-size: 24.73px;
+}
+.SmallButton{
+    width: 178px;
+    height: 44px;
+    font-size: 14px;
+}
+.MyButton:hover{
+    cursor: pointer;
+}

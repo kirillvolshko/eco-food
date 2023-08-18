@@ -1,0 +1,41 @@
+.menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+}
+
+.menu-image {
+    margin-left: 150px;
+    margin-right: 300px;
+}
+
+.menu-item {
+    margin-right: 20px;
+    cursor: pointer;
+    transition: color 0.3s;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.menu-item:hover {
+    color: #1890ff;
+}
+@media (max-width:1601px) {
+    .menu-image {
+        margin-left: 0;
+        margin-right: 200px;
+    }
+
+}
+@media (max-width:1200px) {
+    .menu-image {
+        margin-left: 0;
+        margin-right: 100px;
+    }
+    .menu-item {
+        font-size: 15px;
+    }
+}
+
+
