@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/eco-food/static/css/main.cedf899a.css",
-    "main.js": "/eco-food/static/js/main.903c71a8.js",
+    "main.css": "/eco-food/static/css/main.a1f913ca.css",
+    "main.js": "/eco-food/static/js/main.cff27002.js",
     "static/media/background.svg": "/eco-food/static/media/background.05a986efcd00e7b71502.svg",
+    "static/media/sertificate.png": "/eco-food/static/media/sertificate.7a1f0b6777c38eaf9913.png",
+    "static/media/wheat.png": "/eco-food/static/media/wheat.14b550cf4f84f188a75d.png",
+    "static/media/corn.png": "/eco-food/static/media/corn.08b35cea2031917427cf.png",
+    "static/media/barley.png": "/eco-food/static/media/barley.6879e2580a78d61c62de.png",
+    "static/media/harvester.jpg": "/eco-food/static/media/harvester.6f9338f1dc503b386a8a.jpg",
+    "static/media/logo.svg": "/eco-food/static/media/logo.8f8ea5395b32d47c2ca8fc8c0cb4f5ee.svg",
     "index.html": "/eco-food/index.html",
-    "main.cedf899a.css.map": "/eco-food/static/css/main.cedf899a.css.map",
-    "main.903c71a8.js.map": "/eco-food/static/js/main.903c71a8.js.map"
+    "main.a1f913ca.css.map": "/eco-food/static/css/main.a1f913ca.css.map",
+    "main.cff27002.js.map": "/eco-food/static/js/main.cff27002.js.map"
   },
   "entrypoints": [
-    "static/css/main.cedf899a.css",
-    "static/js/main.903c71a8.js"
+    "static/css/main.a1f913ca.css",
+    "static/js/main.cff27002.js"
   ]
 }
