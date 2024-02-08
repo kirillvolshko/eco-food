@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eco-food/static/css/main.2de6ffb0.css",
+    "main.css": "/eco-food/static/css/main.b646c3dd.css",
     "main.js": "/eco-food/static/js/main.d8dcccad.js",
     "static/media/background.svg": "/eco-food/static/media/background.05a986efcd00e7b71502.svg",
     "static/media/sertificate.png": "/eco-food/static/media/sertificate.7a1f0b6777c38eaf9913.png",
@@ -13,11 +13,11 @@
     "static/media/telegram.png": "/eco-food/static/media/telegram.0a4265bfea7fe8beeaf2.png",
     "static/media/logo.svg": "/eco-food/static/media/logo.8f8ea5395b32d47c2ca8fc8c0cb4f5ee.svg",
     "index.html": "/eco-food/index.html",
-    "main.2de6ffb0.css.map": "/eco-food/static/css/main.2de6ffb0.css.map",
+    "main.b646c3dd.css.map": "/eco-food/static/css/main.b646c3dd.css.map",
     "main.d8dcccad.js.map": "/eco-food/static/js/main.d8dcccad.js.map"
   },
   "entrypoints": [
-    "static/css/main.2de6ffb0.css",
+    "static/css/main.b646c3dd.css",
     "static/js/main.d8dcccad.js"
   ]
 }
