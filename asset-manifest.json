@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/eco-food/static/css/main.a1f913ca.css",
-    "main.js": "/eco-food/static/js/main.cff27002.js",
+    "main.css": "/eco-food/static/css/main.2de6ffb0.css",
+    "main.js": "/eco-food/static/js/main.d8dcccad.js",
     "static/media/background.svg": "/eco-food/static/media/background.05a986efcd00e7b71502.svg",
     "static/media/sertificate.png": "/eco-food/static/media/sertificate.7a1f0b6777c38eaf9913.png",
     "static/media/wheat.png": "/eco-food/static/media/wheat.14b550cf4f84f188a75d.png",
     "static/media/corn.png": "/eco-food/static/media/corn.08b35cea2031917427cf.png",
     "static/media/barley.png": "/eco-food/static/media/barley.6879e2580a78d61c62de.png",
     "static/media/harvester.jpg": "/eco-food/static/media/harvester.6f9338f1dc503b386a8a.jpg",
+    "static/media/instagram.png": "/eco-food/static/media/instagram.2d5cedd576ca1a740d7c.png",
+    "static/media/vibrating-phone.png": "/eco-food/static/media/vibrating-phone.b8d5406eb84fd950e899.png",
+    "static/media/telegram.png": "/eco-food/static/media/telegram.0a4265bfea7fe8beeaf2.png",
     "static/media/logo.svg": "/eco-food/static/media/logo.8f8ea5395b32d47c2ca8fc8c0cb4f5ee.svg",
     "index.html": "/eco-food/index.html",
-    "main.a1f913ca.css.map": "/eco-food/static/css/main.a1f913ca.css.map",
-    "main.cff27002.js.map": "/eco-food/static/js/main.cff27002.js.map"
+    "main.2de6ffb0.css.map": "/eco-food/static/css/main.2de6ffb0.css.map",
+    "main.d8dcccad.js.map": "/eco-food/static/js/main.d8dcccad.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1f913ca.css",
-    "static/js/main.cff27002.js"
+    "static/css/main.2de6ffb0.css",
+    "static/js/main.d8dcccad.js"
   ]
 }
